@@ -1,0 +1,6 @@
+{
+  "require": {
+    "zbateson/mail-mime-parser": ">=3.0.3",
+    "ddeboer/imap": ">=1.19.0"
+  }
+}
